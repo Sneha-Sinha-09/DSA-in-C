@@ -73,7 +73,6 @@ void display(st *s)
 
 int main()
 {
-    int ch;
     st *s = (st *)malloc(sizeof(st));
     
     CreateEmptyStack(s);
